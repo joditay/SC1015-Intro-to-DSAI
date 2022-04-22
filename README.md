@@ -1,5 +1,5 @@
 # Intro-to-Data-Science-and-AI
-For this module, my group did analysis on the IBM HR Analytics Employee Attrition and Performance dataset from Kaggle.
+For this module, we performed analysis on the IBM HR Analytics Employee Attrition and Performance dataset from Kaggle.
 
 1. IBMAttrition.csv - dataset
 2. SC1015 Project Slides.pdf - presentation slides for an overview of our project
