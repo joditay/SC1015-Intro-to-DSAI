@@ -1,5 +1,5 @@
 # SC1015 Mini-Project
-For this module, we performed analysis on the IBM HR Analytics Employee Attrition and Performance dataset from Kaggle.
+For our mini project in this module, we performed analysis on the IBM HR Analytics Employee Attrition and Performance dataset from Kaggle.
 
 1. IBMAttrition.csv - dataset
 2. SC1015 Project Slides.pdf - presentation slides for an overview of our project
