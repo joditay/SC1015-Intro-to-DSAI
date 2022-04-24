@@ -54,7 +54,15 @@ b. Explored bi-variate relationships with a scatter plot
     b. Build a multilayer perceptron model for multi-label classification
 
 ### Conclusion
-- 
+
+*Machine Learning Comparisons*
+- Random Forest suggests that numeric variables with relatively high correlation with attrition are useful in predicting attrition
+- Logistic Regression is not recommended as a technique as most categorical variables are irrelevant in determining attrition
+- Neural Network is highly useful in effectively predicting attrition
+
+*Data Driven Insights*
+- Common profile of employees who quit: low salary, lives far away from office, low chance of career progression/lack of opportunities
+- Actions for IBM: increase salary incentives, enhance effective employee assessments, change up roles in senior management
 
 ### What we have learnt from this project?
 - Using pandas.get_dummies to convert catrgorical variables into indicator variables
