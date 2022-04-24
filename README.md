@@ -22,19 +22,19 @@ For our mini project in the Introduction to Data Science and Artificial Intellig
 
 ### Notebook Details
 #### Cleaning and Preparation
-a. Check for missing values within the dataset
+   a. Check for missing values within the dataset
 
-b. Remove insignificant columns: 'EmployeeCount', 'Over18', 'StandardHours', and 'EmployeeNumber'
+   b. Remove insignificant columns: 'EmployeeCount', 'Over18', 'StandardHours', and 'EmployeeNumber'
 
 #### Basic Visualization
-a. Used box plots, histograms, and violin plots in visualizing numeric variables
+   a. Used box plots, histograms, and violin plots in visualizing numeric variables
 
-b. Used the GroupBy function to create a categorical bar plot of attrition against each categorical variable
+   b. Used the GroupBy function to create a categorical bar plot of attrition against each categorical variable
 
 #### Exploratory Data Analysis
-a. Plot a correlation matrix to identify multicollinearity and any existing patterns within numeric variables
+   a. Plot a correlation matrix to identify multicollinearity and any existing patterns within numeric variables
 
-b. Explored bi-variate relationships with a scatter plot
+   b. Explored bi-variate relationships with a scatter plot
 
 #### Machine Learning
 *1. Random Forest*
