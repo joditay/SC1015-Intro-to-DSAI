@@ -20,6 +20,35 @@ For our mini project in this module, we performed analysis on the IBM HR Analyti
     - Exploratory data analysis
     - Machine learning: Random Forest, Logistic Regression, Neural Network  
 
+### Notebook Details
+#### Cleaning and Preparation
+a. Check for missing values within the dataset
+
+b. Remove insignificant columns: 'EmployeeCount', 'Over18', 'StandardHours', and 'EmployeeNumber'
+
+#### Basic Visualization
+a. Used box plots, histograms, and violin plots in visualizing numeric variables
+
+b. Used the GroupBy function to create a categorical bar plot of attrition against each categorical variable
+
+#### Exploratory Data Analysis
+a. Plot a correlation matrix to identify multicollinearity and any existing patterns within numeric variables
+
+b. Explored bi-variate relationships with a scatter plot
+
+#### Machine Learning
+1. Random Forest
+
+a.
+
+2. Logistic Regression
+
+a.
+
+3. Neural Network
+
+a.
+
 ### Conclusion
 - 
 
