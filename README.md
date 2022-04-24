@@ -65,8 +65,13 @@ For our mini project in the Introduction to Data Science and Artificial Intellig
 *3. Neural Network*
 
     a. Import PyTorch library and select major numeric attributes
+        - The attributes include 'MonthlyIncome', 'DistanceFromHome' and 'YearsInCurrentRole'
 
     b. Build a multilayer perceptron model for multi-label classification
+    
+    c. Train the model with CrossEntropyLoss as loss function and SGD as optimizer.
+        - The loss of the model reduced significantly after training through 3 epochs
+        - The accuracy on test cases is 85.7%
 
 
 ### Conclusion
@@ -93,3 +98,4 @@ For our mini project in the Introduction to Data Science and Artificial Intellig
 4. https://www.datacamp.com/community/tutorials/understanding-logistic-regression-python
 5. https://towardsdatascience.com/building-a-logistic-regression-in-python-step-by-step-becd4d56c9c8
 6. https://github.com/PacktPublishing/Deep-learning-with-PyTorch-video
+7. https://androidkt.com/load-pandas-dataframe-using-dataset-and-dataloader-in-pytorch/
