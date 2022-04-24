@@ -37,19 +37,21 @@ a. Plot a correlation matrix to identify multicollinearity and any existing patt
 b. Explored bi-variate relationships with a scatter plot
 
 #### Machine Learning
-1. Random Forest
+*1. Random Forest*
 
     a. Extract numeric variables that have high correlation with attrition as predictors and build a model using Random Forest Classifier
 
     b. Do hyperparemeter tuning using Random Search and plot one of the trees from Random Forest
 
-2. Logistic Regression
+*2. Logistic Regression*
 
-a.
+    a.
 
-3. Neural Network
+*3. Neural Network*
 
-a.
+    a. Import PyTorch library and select major numeric attributes
+
+    b. Train a multilayer perceptron model by numeric attributes that are highly related to attrition
 
 ### Conclusion
 - 
