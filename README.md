@@ -39,9 +39,9 @@ b. Explored bi-variate relationships with a scatter plot
 #### Machine Learning
 1. Random Forest
 
-a. Extract numeric variables that have high correlation with attrition as predictors and build a model using Random Forest Classifier
+    a. Extract numeric variables that have high correlation with attrition as predictors and build a model using Random Forest Classifier
 
-b. Do hyperparemeter tuning using Random Search and plot one of the trees from Random Forest
+    b. Do hyperparemeter tuning using Random Search and plot one of the trees from Random Forest
 
 2. Logistic Regression
 
