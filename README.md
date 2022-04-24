@@ -59,8 +59,8 @@ a.
 - Neural Network model
 
 ### References
-https://analyticsindiamag.com/guide-to-hyperparameters-tuning-using-gridsearchcv-and-randomizedsearchcv/
-https://www.analyticsvidhya.com/blog/2021/06/understanding-random-forest/
-https://stackoverflow.com/questions/55229301/one-hot-encoding-multiple-columns-in-sklearn-and-naming-columns
-https://www.datacamp.com/community/tutorials/understanding-logistic-regression-python
-https://towardsdatascience.com/building-a-logistic-regression-in-python-step-by-step-becd4d56c9c8
+1. https://analyticsindiamag.com/guide-to-hyperparameters-tuning-using-gridsearchcv-and-randomizedsearchcv/
+2. https://www.analyticsvidhya.com/blog/2021/06/understanding-random-forest/
+3. https://stackoverflow.com/questions/55229301/one-hot-encoding-multiple-columns-in-sklearn-and-naming-columns
+4. https://www.datacamp.com/community/tutorials/understanding-logistic-regression-python
+5. https://towardsdatascience.com/building-a-logistic-regression-in-python-step-by-step-becd4d56c9c8
