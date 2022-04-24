@@ -1,5 +1,5 @@
 # SC1015 Mini-Project
-For our mini project in this module, we performed analysis on the IBM HR Analytics Employee Attrition and Performance [dataset](https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset) from Kaggle. 
+For our mini project in the Introduction to Data Science and Artificial Intelligence module (SC1015), we performed analysis on the IBM HR Analytics Employee Attrition and Performance [dataset](https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset) from Kaggle. 
 
 ### Problem Definition
 - What is the profile of employees who quit IBM?
