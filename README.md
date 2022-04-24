@@ -40,12 +40,24 @@ b. Explored bi-variate relationships with a scatter plot
 *1. Random Forest*
 
     a. Extract numeric variables that have high correlation with attrition as predictors and build a model using Random Forest Classifier
+       - A accuracy of 84.5% is achieved
 
     b. Do hyperparemeter tuning using Random Search and plot one of the trees from Random Forest
+       The accuracy is improved to 84.7%
 
 *2. Logistic Regression*
 
-    a.
+    a. Get the 6 categorical variables and convert them into indicator variables using pandas.get_dummies
+    
+    b. Build a Logistic Regression model based on the predictors and print out the rank of importance of predictors using Recursive Feature Elimination (RFE)
+       - The accuracy on test set is 0.84
+       - 'OverTime' and 'Gender' contribute more to the predicton of attrition than the rest of the predictors
+    
+    c. Examine the classification report and analyze the model based on 'precision' and 'recall'
+       - Get the conclusion that the model is not effective even with high accuracy
+       - The highly imbalanced distribution of employees when categorizing by attrition is the major factor for the high accuracy
+    
+    d. Get the confusion matrix to prove our conclusion
 
 *3. Neural Network*
 
