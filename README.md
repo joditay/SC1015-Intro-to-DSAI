@@ -26,15 +26,18 @@ For our mini project in the Introduction to Data Science and Artificial Intellig
 
    b. Remove insignificant columns: 'EmployeeCount', 'Over18', 'StandardHours', and 'EmployeeNumber'
 
+
 #### Basic Visualization
    a. Used box plots, histograms, and violin plots in visualizing numeric variables
 
    b. Used the GroupBy function to create a categorical bar plot of attrition against each categorical variable
 
+
 #### Exploratory Data Analysis
    a. Plot a correlation matrix to identify multicollinearity and any existing patterns within numeric variables
 
    b. Explored bi-variate relationships with a scatter plot
+
 
 #### Machine Learning
 *1. Random Forest*
@@ -64,6 +67,7 @@ For our mini project in the Introduction to Data Science and Artificial Intellig
     a. Import PyTorch library and select major numeric attributes
 
     b. Build a multilayer perceptron model for multi-label classification
+
 
 ### Conclusion
 
