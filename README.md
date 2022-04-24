@@ -57,7 +57,7 @@ b. Explored bi-variate relationships with a scatter plot
        - Get the conclusion that the model is not effective even with high accuracy
        - The highly imbalanced distribution of employees when categorizing by attrition is the major factor for the high accuracy
     
-    d. Get the confusion matrix to prove our conclusion
+    d. Get the confusion matrix to back up our conclusion
 
 *3. Neural Network*
 
