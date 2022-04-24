@@ -43,7 +43,7 @@ b. Explored bi-variate relationships with a scatter plot
        - A accuracy of 84.5% is achieved
 
     b. Do hyperparemeter tuning using Random Search and plot one of the trees from Random Forest
-       The accuracy is improved to 84.7%
+       - The accuracy is improved to 84.7%
 
 *2. Logistic Regression*
 
