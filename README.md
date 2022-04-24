@@ -51,7 +51,7 @@ b. Explored bi-variate relationships with a scatter plot
 
     a. Import PyTorch library and select major numeric attributes
 
-    b. Train a multilayer perceptron model by numeric attributes that are highly related to attrition
+    b. Build a multilayer perceptron model for multi-label classification
 
 ### Conclusion
 - 
