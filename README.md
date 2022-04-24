@@ -22,9 +22,9 @@ For our mini project in the Introduction to Data Science and Artificial Intellig
 
 ### Notebook Details
 #### Cleaning and Preparation
-   a. Check for missing values within the dataset
+    a. Check for missing values within the dataset
 
-   b. Remove insignificant columns: 'EmployeeCount', 'Over18', 'StandardHours', and 'EmployeeNumber'
+    b. Remove insignificant columns: 'EmployeeCount', 'Over18', 'StandardHours', and 'EmployeeNumber'
 
 
 #### Basic Visualization
