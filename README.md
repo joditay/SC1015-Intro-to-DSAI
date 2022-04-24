@@ -92,3 +92,4 @@ For our mini project in the Introduction to Data Science and Artificial Intellig
 3. https://stackoverflow.com/questions/55229301/one-hot-encoding-multiple-columns-in-sklearn-and-naming-columns
 4. https://www.datacamp.com/community/tutorials/understanding-logistic-regression-python
 5. https://towardsdatascience.com/building-a-logistic-regression-in-python-step-by-step-becd4d56c9c8
+6. https://github.com/PacktPublishing/Deep-learning-with-PyTorch-video
